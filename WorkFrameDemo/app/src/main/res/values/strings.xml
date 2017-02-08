@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WorkFrameDemo</string>
+
+    <string name="title">标题</string>
+    <string name="content">内容</string>
+    <string name="OK">确定</string>
+    <string name="cancel">取消</string>
+    <string name="tip">提示</string>
+    <string name="accessibility_service_description">开启获取更多返利商品</string>
+    <string name="home_fragment">首页</string>
+
+</resources>
